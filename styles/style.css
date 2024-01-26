@@ -1,0 +1,47 @@
+
+
+#main {
+  color: red;
+}
+
+.A {
+  color: blue;
+}
+
+
+h1 {
+  width: 400px;
+  margin: 0 auto;
+  padding: 30px;
+  font-size: 60px;
+  text-align: center;
+}
+
+html {
+  font-size: 10px; 
+  font-family: "Open Sans", sans-serif;
+  background-color: cadetblue;
+}
+
+
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
